@@ -35,12 +35,11 @@ FACTOR → ( EXPR ) | id | integer
 ### Tools
 
 Libraries: 
-- Bcrypt
-- AES
-- RSA
-- Secrets
+- PIL
 - Tkinter
-
+- Matplotlib
+- Networkx
+- Ply.lex
 
 Softwares: 
 
